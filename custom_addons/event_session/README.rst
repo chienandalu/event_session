@@ -2,22 +2,16 @@
    :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
    :alt: License: AGPL-3
 
-==============
-Example Module
-==============
 
-Example module, you know.
+Create and assign sessions to events
+====================================
 
-
-Configuration
-=============
-
-You install it and enjoy
+This model allows you create sessions associeted with events.
 
 Usage
 =====
 
-Do nothing
+Go to sessions...
 
 Known issues / Roadmap
 ======================
@@ -31,7 +25,8 @@ Credits
 Contributors
 ------------
 
-* David Vidal <david.vidal.gracia@gmail.com>
+* Sergio Teruel <sergio.teruel@tecnativa.com>
+* David Vidal <david.vidal@tecnativa.com>
 
 Maintainer
 ----------
